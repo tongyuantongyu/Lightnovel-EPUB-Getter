@@ -1,2 +1,17 @@
-# Lightnovel-EPUB-Getter
-make epub for lightnovel.us pages
+# 轻国小说EPUB制作器
+<br>
+### 本程序仍在测试阶段可能会有各种不尽人意的状况发生
+<br>
+本程序抓取轻之国度（www.lightnovel.us)上的页面生成epub文件供离线浏览。<br>
+<br>
+
+## 已完成功能：
+1. 基本文字抓取<br>
+2. 部分图片抓取<br>
+<br>
+
+## 尚未完成：
+1. 完整的图片抓取支持<br>
+2. 特殊排版（文字颜色，字号）<br>
+3. 有阅读权限贴子的抓取<br>
+<br>
